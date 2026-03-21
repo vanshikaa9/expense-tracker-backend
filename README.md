@@ -27,6 +27,10 @@ A RESTful backend application built using Spring Boot to manage personal expense
 ## Example Response
 
 ```json
+
+## Author
+
+Vanshika Mishra
 [
   {
     "id": 1,
@@ -35,3 +39,34 @@ A RESTful backend application built using Spring Boot to manage personal expense
     "category": "Daily"
   }
 ]
+
+
+---
+
+# 🧠 Why this is better
+
+- ✔ Clean and minimal  
+- ✔ Easy to read  
+- ✔ Looks professional  
+- ✔ No unnecessary decoration  
+- ✔ Still informative  
+
+---
+
+# 🎯 What this signals
+
+To a recruiter / mentor:
+
+> “This person focuses on clarity and structure, not fluff”
+
+---
+
+# 🚀 Next step
+
+1. Replace README  
+2. Push:
+
+```bash
+git add .
+git commit -m "Refined README for professional presentation"
+git push
