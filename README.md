@@ -9,11 +9,22 @@ A RESTful backend application built using Spring Boot to manage personal expense
 - Update existing expenses
 - Delete expenses
 
+## Database
+
+- MongoDB (local)
+
+## Future Improvements
+
+- Cloud deployment (MongoDB Atlas)
+- User authentication
+- Frontend integration
+
 ## Tech Stack
 
 - Java 17
 - Spring Boot
 - REST APIs
+  
 
 ## API Endpoints
 
