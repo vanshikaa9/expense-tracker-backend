@@ -54,30 +54,6 @@ Vanshika Mishra
 
 ---
 
-# 🧠 Why this is better
-
-- ✔ Clean and minimal  
-- ✔ Easy to read  
-- ✔ Looks professional  
-- ✔ No unnecessary decoration  
-- ✔ Still informative  
 
 ---
 
-# 🎯 What this signals
-
-To a recruiter / mentor:
-
-> “This person focuses on clarity and structure, not fluff”
-
----
-
-# 🚀 Next step
-
-1. Replace README  
-2. Push:
-
-```bash
-git add .
-git commit -m "Refined README for professional presentation"
-git push
