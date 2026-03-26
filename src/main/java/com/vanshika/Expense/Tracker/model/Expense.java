@@ -1,18 +1,24 @@
 package com.vanshika.Expense.Tracker.model;
 
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+
+@Document(collection = "expenses")
 public class Expense {
 
-    private Long id;
+    @Id
+    private String id;
+
     private String title;
     private double amount;
     private String category;
 
     // Getter and Setter for id
-    public Long getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(String id) {
         this.id = id;
     }
 
